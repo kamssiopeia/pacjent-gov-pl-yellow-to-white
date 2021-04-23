@@ -3,7 +3,7 @@
 // @version      0.1
 // @author       Kamssiopeia
 // @match        https://*.pacjent.gov.pl/*
-// @description  Changes color #ff0 to much more pleasing random shade of white #f3f3eb
+// @description  Replaces `wysoki-kontrast` style declaration values from #ff0 -> #f3f3eb
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
